@@ -31,9 +31,6 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Software Engineering Student at École Polytechnique de Lomé",
-  "User experience",
-  "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
   "Web user interfaces",
@@ -51,9 +48,8 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about database management, AI, and mobile development.";
-
+const detailOrQuote =[
+  "I am passionate about database management, AI, and mobile development. I am always looking for ways to improve my skills and learn new technologies. I am a team player and enjoy working with others to create innovative solutions.",];
 const About = () => {
   return (
     <section className="padding" id="about">
