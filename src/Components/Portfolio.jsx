@@ -37,16 +37,16 @@ const projectList = [
     url: "https://github.com/HordRic/meteo.git",
   },
   {
-    title: "Numerical algorithm",
+    title: "Guessing_game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Number guessing game within a range in C.",
     url: "https://github.com/HordRic/Algorithme_numerique.git",
   },
   {
-    title: "My Resume Site",
+    title: "Numerical algorithm",
     description:
       "This Python code library implements numerical algorithms, including the Bisection method, Newton's method, and the Secant method",
-    url: "https://github.com/HordRic/binaire.git",
+    url: "https://github.com/HordRic/Algorithme_numerique.git",
   },
   {
     title: "Binary",
